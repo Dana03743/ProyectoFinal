@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #6e4e25c8;
-  color: #ce8525;
+  background-color: #ce8525;
+  color: #6e4e25c8;
 }
 
 .hero {
@@ -21,7 +21,7 @@ body {
 }
 
 .hero .overlay {
-  color: #674019;
+  color: #9b6229;
 }
 
 .hero h1 {
