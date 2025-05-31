@@ -12,7 +12,7 @@ body {
 
 .hero {
   background: linear-gradient(rgba(75, 63, 51, 0.6), rgba(75, 63, 51, 0.6)),
-              url('images/fondo-header.jpg') center/cover no-repeat;
+              url('fondo-header.jpg') center/cover no-repeat;
   height: 60vh;
   display: flex;
   justify-content: center;
